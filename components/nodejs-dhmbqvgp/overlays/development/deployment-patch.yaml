@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/tsscui/nodejs-dhmbqvgp:3e7270862969d52cc897373fc55838bc7058ee63@sha256:d61f8b9744c983347f1a599526d543f50cbf85bf94082e326b257e18d6b5cae4
+        - image: quay.io/tsscui/nodejs-dhmbqvgp:a8ae5b865e0ce703918095bac39c4f5cecff1274@sha256:035f51ce0a170a4d494aef334ff2ee1194487e1f3b8c473be8c839c526ced09d
           name: container-image
